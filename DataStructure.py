@@ -42,8 +42,6 @@ class RedBlackTree:
         self.number_of_nodes= 0
     def search(self,key):
         node = self.root
-        if(node.key==key):
-            return True
         while (node != self.nil):  # as long as we didn't reach the end of the tree
             if node.key==key:
                 return True
