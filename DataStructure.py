@@ -173,7 +173,7 @@ class RedBlackTree:
     def printTreeSize(self):
         return self.number_of_nodes
 
-    # Function to print
+    # Function to print used in debugging
     def __printCall(self, node, indent, last):
         if node != self.nil:
             print(indent, end=' ')          #the default end characther is new line
@@ -192,6 +192,7 @@ class RedBlackTree:
     # Function to call print
     def print_tree(self):
         self.__printCall(self.root, "", True)
+
     def heightOfTree(self,node,sum):
         if node is self.nil:
             return sum
