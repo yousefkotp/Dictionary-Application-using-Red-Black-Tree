@@ -18,7 +18,7 @@ nodes.
 **The program supports the following operations:** 
  1. Load Dictionary from file into a Red Black Tree
  2. Print Dictionary Size which prints the number of node
- 3. Insert Word which make you insert whatever you wants
+ 3. Insert a Word
  4. Look-up a Word if it exists in the dictionary or not
  5. Print Height of the Tree 
 ## Tools
