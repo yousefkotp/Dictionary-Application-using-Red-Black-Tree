@@ -1,4 +1,4 @@
-# Dictionary-Application-using-Red-Black-Trees
+# Dictionary-Application-using-Red-Black-Tree
 ## Table of Content
 - [Dictionary-Application-using-Red-Black-Trees](#dictionary-application-using-red-black-trees)
   * [Abstract](#abstract)
